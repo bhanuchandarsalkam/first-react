@@ -1,0 +1,18 @@
+.navbar{
+  background-color: black;
+  color:blanchedalmond;
+  text-align:center;
+}
+.navbar a{
+  text-decoration:none;
+  margin-right:15px;
+}
+.about h1,.section h1{
+  text-align:center;
+}
+.image{
+  text-align:center;
+}
+img{
+  border-radius:50%;
+}
